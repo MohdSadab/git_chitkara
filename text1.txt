@@ -1,0 +1,2 @@
+// git init   (initialize the git repo)
+// git add text1.txt
