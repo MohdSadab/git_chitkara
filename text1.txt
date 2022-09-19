@@ -1,2 +1,3 @@
 // git init   (initialize the git repo)
 // git add text1.txt
+// git push   // push the code from commit to github/gilab
