@@ -1,3 +1,8 @@
 // git init   (initialize the git repo)
 // git add text1.txt
 // git push   // push the code from commit to github/gilab
+
+// git branch // list the all branches
+// git branch branch_name // create branch does not switch
+// git checkout branch_name // switch to that branch
+// git checkout -b branch_name  // create and switch
